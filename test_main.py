@@ -9,7 +9,7 @@ def test_get_article_text():
     assert article_txt.__contains__(
         "rapidly developing multi-billion dollar industry"
     )
- 
+    assert len(article_txt) > 50
 
 
 # def test_get_and_translate():
