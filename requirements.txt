@@ -3,3 +3,10 @@ pytest
 click
 black
 pytest-cov
+transformers
+torch
+sentencepiece
+beautifulsoup4
+requests
+click
+sacremoses
